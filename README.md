@@ -15,6 +15,10 @@
   <b>Password Manager</b>
   - [Password Manger](https://github.com/marvunu/Password-Manager)
 
+  <b>Securing Data in an AWS_S3 Bucket</b>
+  - [AWS_S3_Bucket](https://github.com/marvunu/Securing_Data_in_AWS_S3_Bucket)
+
+
 
 <h2> 📄Certifications</h2>
 
