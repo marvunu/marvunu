@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Marvin! <a href="https://www.linkedin.com/in/marvin-unumadu-470273242/"> Aspiring Cybersecurity Analyst | SOC Operations & Incident Response</a>
+<h1>Hi, I'm Marvin! <a href="https://www.linkedin.com/in/marvin-unumadu-470273242/"> Cybersecurity Analyst | SOC Operations & Incident Response</a>
 
 <h2>👨‍💻Projects:</h2>
 
