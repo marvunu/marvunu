@@ -1,6 +1,6 @@
 
 # Hello, I'm Marvin
-<a href="www.linkedin.com/in/marvin-unumadu-470273242"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 Tech enthusiast pursuing a career in cybersecurity.
 
@@ -11,7 +11,7 @@ This page documents that journey.
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -56,3 +56,8 @@ This page documents that journey.
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Socails
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/marvin-unumadu-470273242)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/marvunumadu)
