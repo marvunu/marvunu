@@ -2,7 +2,7 @@
 # Hello, I'm Marvin
 
 
-Tech enthusiast pursuing a career in cybersecurity.
+Tech enthusiast pursuing a career in defensive cybersecurity.
 
 With a background in Computer Science, I’m building practical experience by setting up lab environments, monitoring systems, analysing logs, simulating attacks, and understanding how incidents happen — and how to respond effectively. <p>Learning by doing — focusing on testing, troubleshooting, breaking things (intentionally), fixing them, and understanding why they failed in the first place.<p/>
 
