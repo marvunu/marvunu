@@ -15,12 +15,10 @@ This page documents that journey.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/marvunu/Enterprise-SOC-Lab/tree/main/Day%203%20-%20Application%20Deployment%2C%20Honeypot%20Setup%20and%20Attack%20Simulation">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/marvunu/Enterprise-SOC-Lab/tree/main/Day%204%20WAF%20Deployment%20and%20Log%20Analysis">Detection Lab</a>|
+
+
 
 ## Tools
 
@@ -54,8 +52,8 @@ This page documents that journey.
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/marvunu/Enterprise-SOC-Lab/tree/main">Enterprise SOC Lab - AWS Security Simulation Lab</a>
+
 
 ## Socails
 
