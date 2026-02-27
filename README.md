@@ -57,6 +57,7 @@ This page documents that journey.
 
 ## Projects
 - <a href="https://github.com/marvunu/Enterprise-SOC-Lab/tree/main">Enterprise SOC Lab - AWS Security Simulation Lab</a>
+- <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">Cloud_Active_Directory_Keberoasting_Lab</a>
 
 
 ## Socails
