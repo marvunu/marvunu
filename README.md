@@ -17,6 +17,10 @@ This page documents that journey.
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/marvunu/Enterprise-SOC-Lab/tree/main/Day%203%20-%20Application%20Deployment%2C%20Honeypot%20Setup%20and%20Attack%20Simulation">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/marvunu/Enterprise-SOC-Lab/tree/main/Day%204%20WAF%20Deployment%20and%20Log%20Analysis">Detection Lab</a>|
+|AWS VPC & Security Group configuration| <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">Detection Lab</a>|
+|Active Directory deployment & administration| <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">Detection Lab</a>|
+|Kerberoasting (SPN enumeration & TGS extraction)| <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">Detection Lab</a>|
+|SMB authentication testing & password spraying| <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">Detection Lab</a>|
 
 
 
