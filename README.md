@@ -22,6 +22,12 @@ This page documents my practical experience, continuous learning, and commitment
 |Kerberoasting (SPN enumeration & TGS extraction)| <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">AWS-Active-DIrectory Lab</a>|
 |SMB authentication testing & password spraying| <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">AWS-Active-DIrectory Lab</a>|
 
+## Projects
+
+| Projects                                      | Repo                       |
+|-----------------------------------------------|----------------------------|
+| Enterprise SOC Lab - AWS Security Simulation          | <a href="https://github.com/marvunu/Enterprise-SOC-Lab/tree/main">Enterprise-SOC Lab</a>|
+| Cloud Active Directory Keberoasting | <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">Enterprise-SOC Lab</a>|
 
 
 ## Tools
@@ -55,9 +61,7 @@ This page documents my practical experience, continuous learning, and commitment
 <img src="https://img.shields.io/badge/LetsDefend-SOC%20Path-2E8B57?style=for-the-badge" />
 </div>
 
-## Projects
-- <a href="https://github.com/marvunu/Enterprise-SOC-Lab/tree/main">Enterprise SOC Lab - AWS Security Simulation Lab</a>
-- <a href="https://github.com/marvunu/Cloud_Active_Directory_Keberoasting_Lab/blob/main/README.md">Cloud_Active_Directory_Keberoasting_Lab</a>
+
 
 
 ## Socails
