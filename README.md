@@ -2,11 +2,11 @@
 # Hello, I'm Marvin
 
 
-Tech enthusiast pursuing a career in defensive cybersecurity.
+Tech professional with a background in Computer Science and hands-on experience supporting IT infrastructure in fast-paced environments. Skilled in maintaining Windows systems, managing user accounts, troubleshooting hardware and network issues, and ensuring reliable operation of POS, Wi-Fi, and endpoint devices.
 
-With a background in Computer Science, I’m building practical experience by setting up lab environments, monitoring systems, analysing logs, simulating attacks, and understanding how incidents happen — and how to respond effectively. <p>Learning by doing — focusing on testing, troubleshooting, breaking things (intentionally), fixing them, and understanding why they failed in the first place.<p/>
+I focus on keeping systems stable, secure, and responsive — supporting daily operations and ensuring technology works seamlessly during business activities and events.
 
-This page documents that journey.
+This page documents my practical experience, continuous learning, and commitment to building reliable IT environments.
 
 
 
