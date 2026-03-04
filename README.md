@@ -2,7 +2,7 @@
 # Hello, I'm Marvin
 
 
-Tech professional with a background in Computer Science and hands-on experience supporting IT infrastructure in fast-paced environments. Skilled in maintaining Windows systems, managing user accounts, troubleshooting hardware and network issues, and ensuring reliable operation of POS, Wi-Fi, and endpoint devices.
+Tech professional with a background in Computer Science and hands-on experience supporting IT infrastructure in fast-paced environments. Skilled in maintaining Windows systems, managing user accounts, troubleshooting hardware and network issues.
 
 I focus on keeping systems stable, secure, and responsive — supporting daily operations and ensuring technology works seamlessly during business activities and events.
 
